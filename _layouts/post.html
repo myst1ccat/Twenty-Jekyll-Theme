@@ -11,13 +11,14 @@ layout: default
 
   <section class="style4 wrapper container">
     {{ content }}
+    <a href="/blog.html" style="text-align:right">글 목록으로</a>
   </section>
     
     <footer>
         {% if page.previous %}
         <a href="{{ page.previous.url }}" class="post-prev">&larr; Previous post</a> {% endif %}
 
-        <a href="/blog.html" style="text-align:center">글 목록으로</a>
+        
         {% if page.next %}
         <a href="{{ page.next.url }}" class="post-next">Next post &rarr;</a> {% endif %}
     </footer>
