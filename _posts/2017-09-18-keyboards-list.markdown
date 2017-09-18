@@ -33,3 +33,8 @@ categories: 키보드
 <ul>
 <li>Lenovo Thinkpad Trackpoint keyboard</li>
 </ul>
+<h2>멤브레인</h2>
+<ul>
+<li>Samsung Electronics DT-35</li>
+<li>Microsoft Wireless Desktop 3000</li>
+</ul>
